@@ -1,10 +1,10 @@
-# jemdoc: addcss{jemdoc.css}, showsource
+# jemdoc: addcss{jemdoc.css}
 # jemdoc: addcss{myMiddle.css}
 # jemdoc: nofooter
 = Siting Liu
 
 ~~~
-{}{img_left}{siting.jpg}{150}{150}{Siting Liu}
+{}{img_left}{siting-1.jpg}{150}{150}{Siting Liu}
 Siting Liu, Ph.D. \n
 [http://www.cse.cuhk.edu.hk/ Department of Computer Science and Engineering]\n
 [http://www.cuhk.edu.hk/ The Chinese University of Hong Kong]\n
@@ -12,7 +12,7 @@ Supervisor: [http://www.cse.cuhk.edu.hk/~byu/ Professor Bei Yu]
 ~~~
 
 == Biography
-I will be a Ph.D. student at [http://www.cse.cuhk.edu.hk the Department of Computer Science and Engineering], [http://www.cuhk.edu.hk The Chinese University of Hong Kong (CUHK)], 
+I am currently a Ph.D. student at [http://www.cse.cuhk.edu.hk the Department of Computer Science and Engineering], [http://www.cuhk.edu.hk The Chinese University of Hong Kong (CUHK)], 
 under the supervision of [http://www.cse.cuhk.edu.hk/~byu/ Prof. Bei Yu] since Fall 2020. 
 Previously, I received my B.S. in the Department of Computer Science and Technology from [http://www.hust.edu.cn Huazhong University of Science and Technology (HUST)] in 2020.
 
@@ -23,8 +23,16 @@ Email: lusicaliu@outlook.com \n
 == Research Interest
 - Machine Learning in EDA
 
-== Papers
-Does not have temporarily, diligently!
+== Publication
+- \[C4\] Qi Sun, Tinghuan Chen, *Siting Liu*, Jin Miao, Jianli Chen, Hao Yu, Bei Yu, “Correlated Multi-objective Multi-fidelity Optimization for HLS Directives Design”, IEEE/ACM Proceedings Design, Automation and Test in Europe (DATE), Feb. 01–05, 2021.
+
+- \[C3\] *Siting Liu*, Qi Sun, Peiyu Liao, Yibo Lin, Bei Yu, “Global Placement with Deep Learning-Enabled Explicit Routability Optimization”, IEEE/ACM Proceedings Design, Automation and Test in Europe (DATE), Feb. 01–05, 2021.
+
+- \[C2\] Zhuolun He, Peiyu Liao, *Siting Liu*, Yuzhe Ma, Bei Yu, “Physical Synthesis for Advanced Neural Network Processors”, IEEE/ACM Asian and South Pacific Design Automation Conference (ASPDAC), Jan. 18–21, 2021. (Invited Paper)
+
+- \[C1\] Haoyu Yang, Shifan Zhang, Kang Liu, *Siting Liu*, Benjamin Tan, Ramesh Karri, Siddharth Garg, Bei Yu, Evangeline F.Y. Young, “Attacking a CNN-based Layout Hotspot Detector Using Group Gradient Method”, IEEE/ACM Asian and South Pacific Design Automation Conference (ASPDAC), Jan. 18–21, 2021.
+
+#Does not have temporarily, diligently!
 
 == Education
 - Ph.D. Computer Science and Engineering, [http://www.cuhk.edu.hk The Chinese University of Hong Kong],
